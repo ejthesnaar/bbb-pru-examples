@@ -2,7 +2,7 @@
 
 PRU Examples for Beaglebone Black/Green boards.
 
-Eexamples are developed and tested on the Debian 9.3 2018-03-05 4GB SD IoT image that can be found [here](https://beagleboard.org/latest-images "BeagleBoard.org - latest-images").  This image contains the REMOTEPROC and RPMsg drivers, as well as the TI PRU Code Generation Tools (PRU_CGT) already installed.
+Examples are developed and tested on the Debian 9.3 2018-03-05 4GB SD IoT image that can be found [here](https://beagleboard.org/latest-images "BeagleBoard.org - latest-images").  This image contains the REMOTEPROC and RPMsg drivers, as well as the TI PRU Code Generation Tools (PRU_CGT) already installed.
 
 ## lib and include
 
